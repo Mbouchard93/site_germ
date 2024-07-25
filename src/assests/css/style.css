@@ -9,3 +9,11 @@
     margin-right: 0.5rem; /* Adjust the margin as needed */
     color:#5E6E90
 }
+
+@media not all and (min-resolution:.001dpcm) { 
+    @supports (-webkit-appearance:none) {
+      .safari-bg-fixed {
+        background-attachment: scroll !important;
+      }
+    }
+  }
