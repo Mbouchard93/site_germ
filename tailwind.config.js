@@ -10,7 +10,7 @@ export default {
       'withe' : '#fff'
     },
     fontFamily : {
-      'sans' : ['Monstserrat', 'sans-serif'],
+      'sans' : ['Playfair Display', 'sans-serif'],
       'parisienne' : ['Parisienne', 'cursive']
 
     },
